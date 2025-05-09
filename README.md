@@ -43,7 +43,3 @@ Features:
 > 
 > Parts should fit "snug" NOT "tight" or "loose"
 
-# ICMMU Extruder
-
-![ICMMU DarkMode Widescreen](https://github.com/user-attachments/assets/679250b4-1448-40ab-97ac-e1ed535263f1)
-
