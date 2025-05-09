@@ -24,7 +24,7 @@ Features:
 - A 3030 extrusion remix of Anlin's excellent Annex Panel Clips
 - Clicky-Clack style front door (thanks to Whopping Pochard!)
 
-![Inertia Cube New Git Hero Image](https://github.com/user-attachments/assets/a8389243-2b0e-4fac-ac53-f680230b475c)
+
 
 > [!CAUTION]
 > If there are any issues please report them in the Inertia Cube Discord. 
