@@ -24,6 +24,7 @@ Features:
 - A 3030 extrusion remix of Anlin's excellent Annex Panel Clips
 - Clicky-Clack style front door (thanks to Whopping Pochard!)
 
+![INERTIA FOR GIT](https://github.com/user-attachments/assets/29671981-ddff-4e28-8bd0-1bb939765305)
 
 
 > [!CAUTION]
