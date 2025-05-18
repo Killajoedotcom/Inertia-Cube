@@ -35,7 +35,7 @@ Printer features:
 
 
 **What is AWD (All Wheel Drive)?**
->While most CoreXY printers rely on a two-motor gantry drive system, the Inertia Cube leverages an advanced four-motor setup—two at the front and two at the back. This innovative design shortens the belt path, minimizes belt stretch, improves acceleration, and yields better input shaping results. With the added torque from the extra motors, >acceleration performance is typically 1.5 times greater than traditional two-motor systems.
+>While most CoreXY printers rely on a two-motor gantry drive system, the Inertia Cube leverages an advanced four-motor setup—two at the front and two at the back. This innovative design shortens the belt path, minimizes belt stretch, improves acceleration, and yields better input shaping results. With the added torque from the extra motors, acceleration performance is typically 1.5 times greater than traditional two-motor systems.
 
 **What is the best performance hardware?**
 >For optimal results, we recommend using LDO-42STH48-2504AC or 2504AH 1.8-degree motors paired with 20-tooth pulleys and EPDM GT2 belts if possible.
