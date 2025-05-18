@@ -43,7 +43,7 @@ Printer features:
 ### Attributions
 **Monolith Gantry** - [CloakedWayne](https://github.com/CloakedWayne/Monolith_Gantry_V2-VT)<br>
 **Panel Clips** - [Anlin](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges)<br>
-**Yavoth Toolhead** - [Chripy](https://github.com/chirpy2605/voron/tree/main/V0/Yavoth)<br>
+**Yavoth Toolhead** - [Chirpy](https://github.com/chirpy2605/voron/tree/main/V0/Yavoth)<br>
 **G2** - [JaredC01](https://github.com/JaredC01/Galileo2)<br>
 **Orbiter Project** - [Robert Lorincz](https://www.orbiterprojects.com/)<br>
 **Clicky Clack** - [Whopping Pochard](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door)<br>
