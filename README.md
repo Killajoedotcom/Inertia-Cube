@@ -6,7 +6,7 @@ The Inertia Cube is a high speed FDM 3D printer that looks to optimize simplicit
 
 **World’s FIRST production printer featuring Monolith Style Belt routing!** 
 
-Thanks to the great work done over the last 2 years by [CloakedWayne](https://github.com/CloakedWayne/Monolith_Gantry_V2-VT/tree/main) we have a fully optimized belt path for AWD printers that looks to minimize hardware and belt length, while providing incredible results in the process. We strongly encourage you to support his work via his [Kofi](https://ko-fi.com/cloakedwayne).
+Thanks to the great work done over the last 2 years by CloakedWayne we have a fully optimized belt path for AWD printers that looks to minimize hardware and belt length, while providing incredible results in the process. We strongly encourage you to support his work via his [Kofi](https://ko-fi.com/cloakedwayne).
 
 What makes it special? Some affectionately refer to the Inertia Cube as “baby’s first AWD printer” due to the incredibly simple assembly and design intent that makes it incredibly easy to achieve near peak performance out of the printer regardless of DIY build experience.
 
