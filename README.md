@@ -4,7 +4,7 @@
 
 The Inertia Cube (or i³) is a high speed FDM 3D printer that looks to optimize simplicity and provide a great entry point for all makers into the world of All Wheel Drive 3D printing. Its 300mm^3 build volume is built on a 3030 extrusion frame, optimized for ease of assembly, speed, and precision, while ensuring long-lasting performance and unmatched serviceability for enthusiasts who demand speed without compromising quality and those who need high printing uptime.
 
-**World’s FIRST production printer featuring Monolith Style Belt routing!** 
+**World's first kit printer featuring native Monolith Style Belt routing!** 
 
 Thanks to the great work done over the last 2 years by CloakedWayne we have a fully optimized belt path for AWD printers that looks to minimize hardware and belt length, while providing incredible results in the process. We strongly encourage you to support his work via his [Kofi](https://ko-fi.com/cloakedwayne).
 
