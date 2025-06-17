@@ -22,7 +22,7 @@ Printer features:
 - Support for USB or CAN Bus eddy current scanners as the Z probe (Beacon or Cartographer)
 - Support for USB or CAN Bus Toolhead PCBs (LDO NH36, Fysetc H36, or BTT EBB36)
 - Support for various hotends (starting with Rapido UHF, Dragon Ace Volcanao UHF, and Goliath)
-- An sealed extrusion style front door
+- A latching sealed extrusion style front door
 
 ### FAQs:
 
